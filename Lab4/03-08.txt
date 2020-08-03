@@ -1,0 +1,6 @@
+Thong tin gi?
+lop hoc can thong tin gi
+tao bang -> sinh vine hoc lop nao
+mã lớp, tên lớp, ngày bắt đầu, ngày kết thúc, trạng thái lớp (đang học, tạm ngưng, kết thúc, sắp mở ...) kiểu đó em ạ CLASS
+mã lớp, mã sinh viên, trạng thái, start date, end date em ạ  DETAILS
+
